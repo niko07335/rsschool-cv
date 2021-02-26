@@ -22,3 +22,17 @@ Phone: +375(29)6352945
 
 [4]: http://blr.rs.gov.ru/
 [5]: http://bevalex.by
+- - -
+### Education:
+Without higher education.
+
+### Courses:
++ 2016 - Development and promotion of web projects 
++ 2017 – Python basics
+
+### Programming Skills:
++ JavaScript – Good theoretical knowledge, practical skills. Have experience with jQuery. In projects I use BEM, Eslint and ES6. 
++ HTML/CSS – Confident knowledges. Have experience with Bootstrap and Foundation.
++ MySQL – Basic knowledge. Understanding of syntax.
++ Java – Basic knowledge. Understanding of syntax.
++ Python – Basic knowledge. Understanding of syntax.
