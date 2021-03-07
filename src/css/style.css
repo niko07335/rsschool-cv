@@ -1,0 +1,54 @@
+.header, .main, .footer {
+  margin: 0;
+  width: 80%;
+  min-width: 768px;
+  margin: 0 auto;
+  background-color: #dbe9ff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.footer {
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.header__info {
+  flex-grow: 3;
+  padding-left: 20px;
+}
+
+.header__info__objective {
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+.contacts {
+  flex-grow: 3;
+}
+
+.profile_pic {
+  width: 20%;
+  flex-grow: 1;
+  padding: 5px 10px 0px 0px;
+}
+
+.contacts>ul {
+  display: flex;
+  justify-content: space-around;
+  font-weight: 700;
+}
+
+.contacts__item {
+  list-style: none;
+}
+
+.contacts__item--link {
+  text-decoration: none;
+}
