@@ -21,8 +21,14 @@
   padding-left: 20px;
 }
 
+.header__info__about-me__title,
+.header__info__about-me__text{
+  font-size: 1.2em;
+  text-align: center;
+}
+
 .header__info__objective {
-  font-size: 1.5em;
+  font-size: 1.7em;
   font-weight: 700;
 }
 
