@@ -1,7 +1,6 @@
 .header, 
 .main, 
 .footer {
-  margin: 0;
   width: 80%;
   margin: 0 auto;
   background-color: #fff5ff;
@@ -28,8 +27,8 @@
 }
 
 .contacts {
-  align-self: center;
   width: 100%;
+  align-self: center;
 }
 
 .profile_pic {
@@ -44,13 +43,9 @@
   font-size: 1.2em;
 }
 
-.contacts__item {
-  list-style: none;
-}
+.contacts__item {list-style: none;}
 
-.contacts__item--link {
-  text-decoration: none;
-}
+.contacts__item--link {text-decoration: none;}
 
 .work, 
 .education, 
@@ -75,13 +70,9 @@
   padding-left: 20px;
 }
 
-.work__item__date {
-  font-weight: 700;
-}
+.work__item__date {font-weight: 700;}
 
-.education__text {
-  padding-left: 20px;
-}
+.education__text {padding-left: 20px;}
 
 .footer {
   border-bottom-right-radius: 5px;
